@@ -65,7 +65,7 @@ There are many web parts that aim to do the same thing, but they either use Shar
 The foundation on which I started building my own solution. This web part can be downloaded from the [SharePoint Framework Client-Side Web Part Samples & Tutorial Materials](https://github.com/pnp/sp-dev-fx-webparts/tree/master/samples/react-directory)
 
 #### Thanks to
-- Jo√£o Mendes ([@joaojmendes](https://twitter.com/joaojmendes))
+- Jo„o Mendes ([@joaojmendes](https://twitter.com/joaojmendes))
 - Peter Paul Kirschner ([@petkir_at](https://twitter.com/petkir_at))
 
 ### PnP Modern Search Web Parts
@@ -76,6 +76,6 @@ These web parts were an enormous inspiration on code structure and implementatio
 - Mikael Svenson (Microsoft) - [@mikaelsvenson](http://www.twitter.com/mikaelsvenson)  
 - Yannick Reekmans - [@yannickreekmans](https://twitter.com/yannickreekmans)  
 - Albert-Jan Schot - [@appieschot](https://twitter.com/appieschot)  
-- Tarald G√•sbakk (PuzzlePart) - [@taraldgasbakk](https://twitter.com/Taraldgasbakk)  
+- Tarald GÂsbakk (PuzzlePart) - [@taraldgasbakk](https://twitter.com/Taraldgasbakk)  
 - Brad Schlintz (Microsoft) - [@bschlintz](https://twitter.com/bschlintz)  
 - Richard Gigan - [@PooLP](https://twitter.com/PooLP)  
